@@ -1,7 +1,9 @@
 # Pokemon Winner Prediction
 
-Based on [Pokemon- Weedle's Cave | Kaggle](https://www.kaggle.com/terminus7/pokemon-challenge), [result](https://github.com/jojoee/pokemon-winner-prediction/blob/master/pokemon-winner-prediction.ipynb)
-Authors
+Based on [Pokemon- Weedle's Cave | Kaggle](https://www.kaggle.com/terminus7/pokemon-challenge)(https://github.com/jojoee/pokemon-winner-prediction/blob/master/pokemon-winner-prediction.ipynb)
+
+
+##Authors
 ----------------------------------------
 Chowdhury Rajdipa
 Ota Eric
